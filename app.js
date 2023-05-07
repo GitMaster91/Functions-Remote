@@ -5,3 +5,7 @@ function fn1(obj) {
 function fn2(obj) {
   return obj;
 };
+
+function fn3(obj) {
+  return obj;
+};
