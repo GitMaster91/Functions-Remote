@@ -9,3 +9,7 @@ function fn2(obj) {
 function fn3(obj) {
   return obj;
 };
+
+function fn4(obj) {
+  return obj;
+};
