@@ -13,3 +13,7 @@ function fn3(obj) {
 function fn4(obj) {
   return obj;
 };
+
+function fn5(obj) {
+  return obj;
+};
