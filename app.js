@@ -1,3 +1,5 @@
+const factorFn = (number, factor) => number * factor;
+
 function word(str) {
   return str.toUpperCase();
 };
