@@ -1,5 +1,5 @@
-function letters(str) {
-  return [str]
+function word(str) {
+  return str.toUpperCase();
 };
 
 function fn1(obj) {
