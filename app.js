@@ -21,3 +21,7 @@ function fn4(obj) {
 function fn5(obj) {
   return obj;
 };
+
+function fn6(obj) {
+  return obj;
+};
