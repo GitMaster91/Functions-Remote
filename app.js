@@ -1,3 +1,7 @@
+function letters(str) {
+  return [str]
+};
+
 function fn1(obj) {
   return obj;
 };
